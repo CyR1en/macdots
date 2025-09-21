@@ -1,0 +1,5 @@
+shift + alt - q : aerospace close --quit-if-last-window
+cmd - q : skhd -k "shift + alt - q"
+
+cmd - return : open -a Alacritty -n
+cmd - b : "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser"
